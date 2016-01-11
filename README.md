@@ -1,6 +1,7 @@
 # MeasureApp
 
 
-#How to run:
+###How to run:
 
-Run `pod install` in folder directory.
+Make sure you have `cocoapods` installed.
+Run `pod install` in project directory.
